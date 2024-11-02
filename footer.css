@@ -1,0 +1,35 @@
+.social-icons {
+    display: flex;
+}
+
+.social-icons li {
+    list-style: none;
+    margin-right: 10px;
+}
+
+.social-icons li a {
+    color: white;
+    font-size: 18px;
+    display: inline-block;
+    padding: 0px;
+    background-color: #111;
+    border-radius: 50%;
+}
+
+
+.fa{
+    width: 30px;
+    height: 30px;
+}
+
+.footer-top{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-top div{
+    margin: 10px;
+}
