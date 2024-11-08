@@ -24,7 +24,7 @@ header {
     top: 0;
     width: 100%;
     z-index: 1000; /* Ensures it stays on top of other elements */
-    background-color: rgb(114, 28, 28); /* Ensure it has a background to make it clear */
+    background-color: rgb(0, 0, 0); /* Ensure it has a background to make it clear */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Adds a slight shadow */
 
 }
